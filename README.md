@@ -1,3 +1,9 @@
+This is answers to assigment "Plotting 1".
+
+It contains of 4 png files with plots and 4 r code files, with names like plot1.png and plot1.r
+Assigment descibed below.
+
+
 ## Introduction
 
 This assignment uses data from
